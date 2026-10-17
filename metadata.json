@@ -1,0 +1,6 @@
+{
+  "name": "War Thunder Intel",
+  "description": "Bilingual Arabic-English intelligence platform for War Thunder news, updates, balance changes, aircraft, tanks, and missile tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
